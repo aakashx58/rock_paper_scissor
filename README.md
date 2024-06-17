@@ -11,7 +11,7 @@ random
 ## How To use:
 - go to terminal and type
 - python <File_Name>
-- Eg: python Lovecalculator.py
+- Eg: python rock_paper_scissor.py
 
 ## Screenshot
 <img height="400" src="https://github.com/aakashx58/rock_paper_scissor/assets/106716824/29049751-ef0f-463f-ac1b-63457d1a8036">
